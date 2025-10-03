@@ -1,6 +1,6 @@
 # check
-This program checks absent file or not.
+This program checks exists file or not.
 ## How to use it?
 Just type check filename in console. For example:
 
-check not_absent_100%_file.txt
+check exists_100%_file.txt
